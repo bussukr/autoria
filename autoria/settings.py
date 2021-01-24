@@ -13,7 +13,7 @@ SPIDER_MODULES = ['autoria.spiders']
 NEWSPIDER_MODULE = 'autoria.spiders'
 
 #DATABASE
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:yma1981@localhost/trucks_offers'
+SQLALCHEMY_DATABASE_URI = 'postgresql://**:**@localhost/**'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'autoria (+http://www.yourdomain.com)'
